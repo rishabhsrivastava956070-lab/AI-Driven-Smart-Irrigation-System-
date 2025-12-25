@@ -125,8 +125,9 @@ Manual pump control
 ### 🖥️ Serial Monitor Output2
 ![Serial Monitor](output2.png)
 
+---
 
-🔮 Future Scope
+## 🔮 Future Scope
 
 Weather forecast-based irrigation
 
@@ -136,7 +137,9 @@ Water usage analytics dashboard
 
 Cloud deployment on AWS / Azure
 
-🎓 Academic Relevance
+---
+
+## 🎓 Academic Relevance
 
 This project is suitable as a Final Year / Major Project for:
 
@@ -149,7 +152,10 @@ Internet of Things (IoT)
 It demonstrates the practical implementation of:
 AI + IoT + Cloud Computing concepts in a real-world application.
 
+---
+
 📜 License
 
 This project is developed strictly for academic and educational purposes.
+
 
