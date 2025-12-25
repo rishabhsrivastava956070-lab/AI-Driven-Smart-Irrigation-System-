@@ -117,6 +117,15 @@ Live moisture monitoring
 
 Manual pump control
 
+## 📸 Project Output
+
+### 🖥️ Serial Monitor Output1
+![Serial Monitor](output1.png)
+
+### 🖥️ Serial Monitor Output2
+![Serial Monitor](output2.png)
+
+
 🔮 Future Scope
 
 Weather forecast-based irrigation
@@ -143,3 +152,4 @@ AI + IoT + Cloud Computing concepts in a real-world application.
 📜 License
 
 This project is developed strictly for academic and educational purposes.
+
