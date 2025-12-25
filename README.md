@@ -74,6 +74,72 @@ The system automatically controls irrigation based on soil moisture, weather con
 
 ## ▶️ How to Run the Project
 
-### 1️⃣ Generate Dataset
-```bash
+▶️ How to Run the Project
+1️⃣ Generate Dataset
 python generate_data.py
+
+2️⃣ Train Machine Learning Model
+python train_model.py
+
+3️⃣ Start Flask Server
+python server.py
+
+
+The server will start at:
+
+http://127.0.0.1:5000
+
+http://<your-ip>:5000
+
+4️⃣ Upload ESP8266 Code
+
+Open Arduino IDE
+
+Select ESP8266 Board (NodeMCU)
+
+Update:
+
+WiFi SSID & Password
+
+Blynk Auth Token
+
+Weather API Key
+
+Upload the code to ESP8266
+
+5️⃣ Monitor the System
+
+Open Serial Monitor (115200 baud rate)
+
+Use Blynk App for:
+
+Live moisture monitoring
+
+Manual pump control
+
+🔮 Future Scope
+
+Weather forecast-based irrigation
+
+Multi-zone irrigation system
+
+Water usage analytics dashboard
+
+Cloud deployment on AWS / Azure
+
+🎓 Academic Relevance
+
+This project is suitable as a Final Year / Major Project for:
+
+Computer Science Engineering (CSE)
+
+Artificial Intelligence & Machine Learning
+
+Internet of Things (IoT)
+
+It demonstrates the practical implementation of:
+AI + IoT + Cloud Computing concepts in a real-world application.
+
+📜 License
+
+This project is developed strictly for academic and educational purposes.
