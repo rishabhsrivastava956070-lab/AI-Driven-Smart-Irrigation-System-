@@ -121,7 +121,7 @@ void getWeatherData() {
   WiFiClient client;
   HTTPClient http;
 
- String url = "http://api.openweathermap.org/data/2.5/weather?q=Kannauj,IN&appid=0068e8b6c866622d41b7c0391cf39fe6&units=metric";
+ String url = "write url"
 
   http.begin(client, url);
   int httpCode = http.GET();
@@ -223,3 +223,4 @@ void loop() {
     bannerPrinted = true;
   }
 }
+
